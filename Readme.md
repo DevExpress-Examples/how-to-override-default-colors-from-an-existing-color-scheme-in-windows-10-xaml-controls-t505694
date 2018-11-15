@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [App.xaml.cs](./CS/App.xaml.cs) (VB: [App.xaml.vb](./VB/App68/App.xaml.vb))
+* [MainPage.xaml](./CS/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/App68/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/App68/MainPage.xaml.vb))
+* [MainViewModel.cs](./CS/MainViewModel.cs) (VB: [MainViewModel.vb](./VB/App68/MainViewModel.vb))
+* [RichEditEx.cs](./CS/RichEditEx.cs) (VB: [RichEditEx.vb](./VB/App68/RichEditEx.vb))
+<!-- default file list end -->
 # How to override default colors from an existing Color Scheme in Windows 10 XAML controls
 
 
